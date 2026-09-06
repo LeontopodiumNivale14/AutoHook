@@ -6000,7 +6000,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 9.0,
+    "BiteTimeMin": 8.0,
     "BiteTimeMax": 30.0
   },
   {
@@ -12491,7 +12491,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 12.0,
+    "BiteTimeMin": 9.0,
     "BiteTimeMax": 29.0
   },
   {
@@ -12739,7 +12739,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 6.0,
-    "BiteTimeMax": 27.0
+    "BiteTimeMax": 29.0
   },
   {
     "ItemId": 12798,
@@ -32228,7 +32228,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 7.0,
+    "BiteTimeMin": 4.0,
     "BiteTimeMax": 24.0
   },
   {
@@ -43871,7 +43871,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 4.0,
-    "BiteTimeMax": 22.0
+    "BiteTimeMax": 23.0
   },
   {
     "ItemId": 36501,
@@ -53271,7 +53271,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 6.0,
+    "BiteTimeMin": 5.0,
     "BiteTimeMax": 29.0
   },
   {
@@ -54281,7 +54281,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 6.0,
+    "BiteTimeMin": 5.0,
     "BiteTimeMax": 24.0
   },
   {
@@ -54311,7 +54311,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 4.0,
+    "BiteTimeMin": 2.0,
     "BiteTimeMax": 27.0
   },
   {
@@ -57850,7 +57850,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 20.0,
+    "BiteTimeMin": 19.0,
     "BiteTimeMax": 33.0
   },
   {
@@ -59726,7 +59726,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 5.0,
-    "BiteTimeMax": 14.0
+    "BiteTimeMax": 17.0
   },
   {
     "ItemId": 51238,
@@ -60719,7 +60719,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 0.0,
-    "BiteTimeMax": 0.0
+    "BiteTimeMin": 18.0,
+    "BiteTimeMax": 18.0
   }
 ]
