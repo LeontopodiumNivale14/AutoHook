@@ -1425,7 +1425,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 7.0,
-    "BiteTimeMax": 28.0
+    "BiteTimeMax": 31.0
   },
   {
     "ItemId": 4910,
@@ -4604,7 +4604,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 4.0,
+    "BiteTimeMin": 2.0,
     "BiteTimeMax": 24.0
   },
   {
@@ -5337,7 +5337,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 11.0,
+    "BiteTimeMin": 10.0,
     "BiteTimeMax": 25.0
   },
   {
@@ -6447,7 +6447,7 @@
     "MLure": 0,
     "ALure": 0,
     "OceanFishingTime": null,
-    "FruityVideo": null,
+    "FruityVideo": "https://youtu.be/8RYE1-PD_ps",
     "BiteTimeMin": 14.0,
     "BiteTimeMax": 33.0
   },
@@ -10865,7 +10865,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 8.0,
-    "BiteTimeMax": 39.0
+    "BiteTimeMax": 44.0
   },
   {
     "ItemId": 12739,
@@ -12995,7 +12995,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
-    "BiteTimeMax": 25.0
+    "BiteTimeMax": 27.0
   },
   {
     "ItemId": 12806,
@@ -14409,7 +14409,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
-    "BiteTimeMax": 20.0
+    "BiteTimeMax": 23.0
   },
   {
     "ItemId": 14213,
@@ -48829,7 +48829,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
-    "BiteTimeMax": 23.0
+    "BiteTimeMax": 24.0
   },
   {
     "ItemId": 40523,
@@ -55803,7 +55803,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
-    "BiteTimeMax": 24.0
+    "BiteTimeMax": 25.0
   },
   {
     "ItemId": 43789,
@@ -58969,7 +58969,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
-    "BiteTimeMax": 14.0
+    "BiteTimeMax": 18.0
   },
   {
     "ItemId": 51211,
@@ -60493,7 +60493,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": "https://youtu.be/ed2xOHdCQlE",
-    "BiteTimeMin": 17.0,
+    "BiteTimeMin": 16.0,
     "BiteTimeMax": 27.0
   },
   {
