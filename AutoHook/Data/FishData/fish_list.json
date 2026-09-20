@@ -1992,7 +1992,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 3.0,
-    "BiteTimeMax": 25.0
+    "BiteTimeMax": 26.0
   },
   {
     "ItemId": 4927,
@@ -3609,7 +3609,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 7.0,
-    "BiteTimeMax": 26.0
+    "BiteTimeMax": 29.0
   },
   {
     "ItemId": 4972,
@@ -5338,7 +5338,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 10.0,
-    "BiteTimeMax": 25.0
+    "BiteTimeMax": 26.0
   },
   {
     "ItemId": 5023,
@@ -5625,7 +5625,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 10.0,
-    "BiteTimeMax": 23.0
+    "BiteTimeMax": 24.0
   },
   {
     "ItemId": 5032,
@@ -6922,7 +6922,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 11.0,
-    "BiteTimeMax": 33.0
+    "BiteTimeMax": 34.0
   },
   {
     "ItemId": 7697,
@@ -48859,7 +48859,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 3.0,
-    "BiteTimeMax": 23.0
+    "BiteTimeMax": 24.0
   },
   {
     "ItemId": 40524,
@@ -49010,7 +49010,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 9.0,
-    "BiteTimeMax": 26.0
+    "BiteTimeMax": 27.0
   },
   {
     "ItemId": 40529,
@@ -59025,7 +59025,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 7.0,
-    "BiteTimeMax": 18.0
+    "BiteTimeMax": 19.0
   },
   {
     "ItemId": 51213,
@@ -60411,8 +60411,8 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 18.0,
-    "BiteTimeMax": 21.0
+    "BiteTimeMin": 17.0,
+    "BiteTimeMax": 22.0
   },
   {
     "ItemId": 52009,
@@ -60541,9 +60541,9 @@
   },
   {
     "ItemId": 52012,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 28634,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -60552,7 +60552,9 @@
     "Speed": 65535,
     "SurfaceSlap": 0,
     "OceanFish": false,
-    "SpotIds": [],
+    "SpotIds": [
+      301
+    ],
     "Weathers": [],
     "WeathersFrom": [],
     "Spawn": null,
