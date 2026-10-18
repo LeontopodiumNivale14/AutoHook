@@ -10388,7 +10388,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 5.0,
-    "BiteTimeMax": 26.0
+    "BiteTimeMax": 27.0
   },
   {
     "ItemId": 12724,
@@ -19276,7 +19276,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 6.0,
-    "BiteTimeMax": 24.0
+    "BiteTimeMax": 26.0
   },
   {
     "ItemId": 20108,
@@ -51816,7 +51816,7 @@
     "OceanFishingTime": null,
     "FruityVideo": "https://youtu.be/xOPwUALAImQ",
     "BiteTimeMin": 28.0,
-    "BiteTimeMax": 38.0
+    "BiteTimeMax": 42.0
   },
   {
     "ItemId": 41409,
@@ -53061,7 +53061,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 3.0,
-    "BiteTimeMax": 19.0
+    "BiteTimeMax": 23.0
   },
   {
     "ItemId": 43699,
@@ -58496,7 +58496,7 @@
     "OceanFishingTime": null,
     "FruityVideo": "https://youtu.be/NZdPyKqqfSU",
     "BiteTimeMin": 11.0,
-    "BiteTimeMax": 31.0
+    "BiteTimeMax": 32.0
   },
   {
     "ItemId": 47992,
@@ -60228,7 +60228,7 @@
     "OceanFishingTime": null,
     "FruityVideo": "https://youtu.be/MsPSTfksVew",
     "BiteTimeMin": 19.0,
-    "BiteTimeMax": 21.0
+    "BiteTimeMax": 22.0
   },
   {
     "ItemId": 52004,
