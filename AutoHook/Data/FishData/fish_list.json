@@ -12459,7 +12459,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 14.0,
+    "BiteTimeMin": 12.0,
     "BiteTimeMax": 34.0
   },
   {
@@ -12709,7 +12709,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 8.0,
-    "BiteTimeMax": 43.0
+    "BiteTimeMax": 47.0
   },
   {
     "ItemId": 12797,
@@ -13846,7 +13846,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 12.0,
-    "BiteTimeMax": 28.0
+    "BiteTimeMax": 29.0
   },
   {
     "ItemId": 12833,
@@ -17792,7 +17792,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 4.0,
-    "BiteTimeMax": 20.0
+    "BiteTimeMax": 23.0
   },
   {
     "ItemId": 20060,
@@ -18287,7 +18287,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 8.0,
+    "BiteTimeMin": 7.0,
     "BiteTimeMax": 21.0
   },
   {
@@ -33956,7 +33956,7 @@
     "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
-    "BiteTimeMax": 20.0
+    "BiteTimeMax": 21.0
   },
   {
     "ItemId": 29733,
@@ -46591,7 +46591,7 @@
     "OceanFishingTime": null,
     "FruityVideo": "https://youtu.be/Sn86CTFPMcc",
     "BiteTimeMin": 21.0,
-    "BiteTimeMax": 32.0
+    "BiteTimeMax": 33.0
   },
   {
     "ItemId": 36681,
@@ -48898,9 +48898,9 @@
   },
   {
     "ItemId": 40525,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -48908,9 +48908,17 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      286
+    ],
+    "Weathers": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -48919,16 +48927,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 23.0
   },
   {
     "ItemId": 40526,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29714,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -48936,9 +48944,16 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      286
+    ],
+    "Weathers": [
+      1,
+      2,
+      7,
+      9
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -48947,10 +48962,10 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 6.0,
-    "BiteTimeMax": 24.0
+    "BiteTimeMax": 27.0
   },
   {
     "ItemId": 40527,
@@ -49024,11 +49039,17 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
+    "OceanFish": true,
     "SpotIds": [
       286
     ],
-    "Weathers": [],
+    "Weathers": [
+      2,
+      3,
+      4,
+      7,
+      9
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -49037,7 +49058,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 8.0,
     "BiteTimeMax": 24.0
@@ -49368,7 +49389,9 @@
     "SpotIds": [
       287
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -49509,9 +49532,9 @@
   },
   {
     "ItemId": 40545,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29716,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -49519,9 +49542,17 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      288
+    ],
+    "Weathers": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -49530,16 +49561,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 19.0
   },
   {
     "ItemId": 40546,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -49547,9 +49578,16 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      288
+    ],
+    "Weathers": [
+      1,
+      2,
+      7,
+      8
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -49558,7 +49596,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 20.0
@@ -49641,7 +49679,13 @@
     "SpotIds": [
       288
     ],
-    "Weathers": [],
+    "Weathers": [
+      2,
+      3,
+      4,
+      7,
+      8
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -49983,7 +50027,9 @@
     "SpotIds": [
       289
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -50059,9 +50105,9 @@
   },
   {
     "ItemId": 40563,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29714,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -50069,9 +50115,17 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      290
+    ],
+    "Weathers": [
+      1,
+      2,
+      3,
+      4,
+      9
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -50080,16 +50134,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 19.0
   },
   {
     "ItemId": 40564,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -50097,9 +50151,18 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      290
+    ],
+    "Weathers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -50108,7 +50171,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 21.0
@@ -50145,9 +50208,9 @@
   },
   {
     "ItemId": 40566,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29714,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -50155,9 +50218,15 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      290
+    ],
+    "Weathers": [
+      1,
+      5,
+      9
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -50166,7 +50235,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 8.0,
     "BiteTimeMax": 30.0
@@ -50243,11 +50312,18 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
+    "OceanFish": true,
     "SpotIds": [
       290
     ],
-    "Weathers": [],
+    "Weathers": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      9
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -50256,7 +50332,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 12.0,
     "BiteTimeMax": 25.0
@@ -50591,7 +50667,9 @@
     "SpotIds": [
       291
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -50702,9 +50780,9 @@
   },
   {
     "ItemId": 40584,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29714,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -50712,9 +50790,16 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      292
+    ],
+    "Weathers": [
+      1,
+      2,
+      7,
+      8
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -50723,16 +50808,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 15.0
   },
   {
     "ItemId": 40585,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29716,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -50740,9 +50825,17 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      292
+    ],
+    "Weathers": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -50751,7 +50844,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 5.0,
     "BiteTimeMax": 18.0
@@ -50850,7 +50943,7 @@
     "ItemId": 40589,
     "HookType": 4103,
     "BiteType": 38,
-    "InitialBait": 29716,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -50858,11 +50951,13 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
+    "OceanFish": true,
     "SpotIds": [
       292
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -50871,7 +50966,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 11.0,
     "BiteTimeMax": 27.0
@@ -51206,7 +51301,9 @@
     "SpotIds": [
       293
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -53030,7 +53127,7 @@
     "OceanFishingTime": null,
     "FruityVideo": "https://youtu.be/9bPVxXwpdgw",
     "BiteTimeMin": 5.0,
-    "BiteTimeMax": 25.0
+    "BiteTimeMax": 26.0
   },
   {
     "ItemId": 43698,
@@ -55043,7 +55140,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 8.0,
-    "BiteTimeMax": 31.0
+    "BiteTimeMax": 32.0
   },
   {
     "ItemId": 43764,
@@ -55592,7 +55689,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 6.0,
-    "BiteTimeMax": 28.0
+    "BiteTimeMax": 29.0
   },
   {
     "ItemId": 43782,
@@ -58917,9 +59014,9 @@
   },
   {
     "ItemId": 51209,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29714,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -58927,8 +59024,10 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
+    "OceanFish": true,
+    "SpotIds": [
+      334
+    ],
     "Weathers": [],
     "WeathersFrom": [],
     "Spawn": null,
@@ -58938,16 +59037,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 18.0
   },
   {
     "ItemId": 51210,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -58955,9 +59054,16 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      334
+    ],
+    "Weathers": [
+      1,
+      2,
+      3,
+      4
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -58966,16 +59072,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 18.0
   },
   {
     "ItemId": 51211,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29716,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -58983,8 +59089,10 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
+    "OceanFish": true,
+    "SpotIds": [
+      334
+    ],
     "Weathers": [],
     "WeathersFrom": [],
     "Spawn": null,
@@ -58994,16 +59102,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 3.0,
     "BiteTimeMax": 25.0
   },
   {
     "ItemId": 51212,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59011,8 +59119,10 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
+    "OceanFish": true,
+    "SpotIds": [
+      334
+    ],
     "Weathers": [],
     "WeathersFrom": [],
     "Spawn": null,
@@ -59022,16 +59132,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 7.0,
     "BiteTimeMax": 21.0
   },
   {
     "ItemId": 51213,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59039,9 +59149,17 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      334
+    ],
+    "Weathers": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59050,16 +59168,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 12.0,
     "BiteTimeMax": 25.0
   },
   {
     "ItemId": 51214,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29716,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59067,9 +59185,16 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      334
+    ],
+    "Weathers": [
+      1,
+      2,
+      7,
+      8
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59078,16 +59203,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 12.0,
     "BiteTimeMax": 23.0
   },
   {
     "ItemId": 51215,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 38,
+    "InitialBait": 29716,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59095,8 +59220,10 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
+    "OceanFish": true,
+    "SpotIds": [
+      334
+    ],
     "Weathers": [],
     "WeathersFrom": [],
     "Spawn": null,
@@ -59106,16 +59233,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 18.0,
     "BiteTimeMax": 25.0
   },
   {
     "ItemId": 51216,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29714,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59123,8 +59250,10 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
+    "OceanFish": true,
+    "SpotIds": [
+      334
+    ],
     "Weathers": [],
     "WeathersFrom": [],
     "Spawn": null,
@@ -59134,16 +59263,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 7.0,
     "BiteTimeMax": 23.0
   },
   {
     "ItemId": 51217,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 38,
+    "InitialBait": 29714,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59151,9 +59280,17 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      334
+    ],
+    "Weathers": [
+      2,
+      3,
+      4,
+      7,
+      8
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59162,7 +59299,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 13.0,
     "BiteTimeMax": 19.0
@@ -59184,7 +59321,7 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
+    "OceanFish": true,
     "SpotIds": [
       334
     ],
@@ -59197,7 +59334,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 12.0,
     "BiteTimeMax": 14.0
@@ -59218,7 +59355,9 @@
     "SpotIds": [
       335
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59234,9 +59373,9 @@
   },
   {
     "ItemId": 51220,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59244,9 +59383,13 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      335
+    ],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59255,16 +59398,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 7.0
   },
   {
     "ItemId": 51221,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29714,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59272,9 +59415,13 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      335
+    ],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59283,7 +59430,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 7.0
@@ -59304,7 +59451,9 @@
     "SpotIds": [
       335
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59320,9 +59469,9 @@
   },
   {
     "ItemId": 51223,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59330,9 +59479,13 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      335
+    ],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59341,16 +59494,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 13.0
   },
   {
     "ItemId": 51224,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 38,
+    "InitialBait": 29716,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59358,9 +59511,13 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      335
+    ],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59369,7 +59526,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 15.0
@@ -59392,7 +59549,9 @@
     "SpotIds": [
       335
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59422,7 +59581,9 @@
     "SpotIds": [
       335
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59452,7 +59613,9 @@
     "SpotIds": [
       335
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59490,7 +59653,9 @@
     "SpotIds": [
       335
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59499,16 +59664,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": 3,
+    "OceanFishingTime": 1,
     "FruityVideo": null,
     "BiteTimeMin": 7.0,
     "BiteTimeMax": 7.0
   },
   {
     "ItemId": 51229,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29714,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59516,8 +59681,10 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
+    "OceanFish": true,
+    "SpotIds": [
+      336
+    ],
     "Weathers": [],
     "WeathersFrom": [],
     "Spawn": null,
@@ -59527,16 +59694,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 19.0
   },
   {
     "ItemId": 51230,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59544,8 +59711,10 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
+    "OceanFish": true,
+    "SpotIds": [
+      336
+    ],
     "Weathers": [],
     "WeathersFrom": [],
     "Spawn": null,
@@ -59555,16 +59724,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 19.0
   },
   {
     "ItemId": 51231,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29714,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59572,9 +59741,16 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      336
+    ],
+    "Weathers": [
+      1,
+      2,
+      3,
+      4
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59583,16 +59759,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 17.0
   },
   {
     "ItemId": 51232,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29714,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59600,9 +59776,17 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      336
+    ],
+    "Weathers": [
+      1,
+      2,
+      4,
+      3,
+      7
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59611,16 +59795,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 9.0,
     "BiteTimeMax": 20.0
   },
   {
     "ItemId": 51233,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59628,9 +59812,16 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      336
+    ],
+    "Weathers": [
+      1,
+      2,
+      7,
+      8
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59639,16 +59830,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 16.0
   },
   {
     "ItemId": 51234,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29716,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59656,8 +59847,10 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
+    "OceanFish": true,
+    "SpotIds": [
+      336
+    ],
     "Weathers": [],
     "WeathersFrom": [],
     "Spawn": null,
@@ -59667,16 +59860,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 10.0,
     "BiteTimeMax": 21.0
   },
   {
     "ItemId": 51235,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 38,
+    "InitialBait": 29716,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59684,8 +59877,10 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
+    "OceanFish": true,
+    "SpotIds": [
+      336
+    ],
     "Weathers": [],
     "WeathersFrom": [],
     "Spawn": null,
@@ -59695,16 +59890,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 14.0,
     "BiteTimeMax": 21.0
   },
   {
     "ItemId": 51237,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 38,
+    "InitialBait": 2606,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59712,9 +59907,17 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      336
+    ],
+    "Weathers": [
+      2,
+      3,
+      4,
+      7,
+      8
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59723,7 +59926,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 5.0,
     "BiteTimeMax": 17.0
@@ -59745,7 +59948,7 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
+    "OceanFish": true,
     "SpotIds": [
       336
     ],
@@ -59758,16 +59961,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 13.0,
     "BiteTimeMax": 15.0
   },
   {
     "ItemId": 51239,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29714,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59775,9 +59978,13 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      337
+    ],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59786,16 +59993,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 13.0
   },
   {
     "ItemId": 51240,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59803,9 +60010,13 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      337
+    ],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59814,16 +60025,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 13.0
   },
   {
     "ItemId": 51241,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59831,9 +60042,13 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      337
+    ],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59842,7 +60057,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 2,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 12.0
@@ -59863,7 +60078,9 @@
     "SpotIds": [
       337
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59893,7 +60110,9 @@
     "SpotIds": [
       337
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59909,9 +60128,9 @@
   },
   {
     "ItemId": 51244,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29714,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59919,9 +60138,13 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      337
+    ],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59930,16 +60153,16 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 3,
     "FruityVideo": null,
     "BiteTimeMin": 3.0,
     "BiteTimeMax": 11.0
   },
   {
     "ItemId": 51245,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 38,
+    "InitialBait": 29716,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -59947,9 +60170,13 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      337
+    ],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -59958,7 +60185,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
     "BiteTimeMax": 13.0
@@ -60014,7 +60241,9 @@
     "SpotIds": [
       337
     ],
-    "Weathers": [],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -60030,9 +60259,9 @@
   },
   {
     "ItemId": 51687,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 29715,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -60040,9 +60269,14 @@
     "Size": 255,
     "Speed": 65535,
     "SurfaceSlap": 0,
-    "OceanFish": false,
-    "SpotIds": [],
-    "Weathers": [],
+    "OceanFish": true,
+    "SpotIds": [
+      336,
+      337
+    ],
+    "Weathers": [
+      145
+    ],
     "WeathersFrom": [],
     "Spawn": null,
     "Duration": null,
@@ -60051,7 +60285,7 @@
     "Snagging": false,
     "MLure": 0,
     "ALure": 0,
-    "OceanFishingTime": null,
+    "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 7.0,
     "BiteTimeMax": 13.0
@@ -60601,9 +60835,9 @@
   },
   {
     "ItemId": 52014,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4179,
+    "BiteType": 36,
+    "InitialBait": 28634,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -60612,7 +60846,9 @@
     "Speed": 65535,
     "SurfaceSlap": 0,
     "OceanFish": false,
-    "SpotIds": [],
+    "SpotIds": [
+      309
+    ],
     "Weathers": [],
     "WeathersFrom": [],
     "Spawn": null,
@@ -60629,9 +60865,9 @@
   },
   {
     "ItemId": 52015,
-    "HookType": 0,
-    "BiteType": 0,
-    "InitialBait": 0,
+    "HookType": 4103,
+    "BiteType": 37,
+    "InitialBait": 28634,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -60640,7 +60876,9 @@
     "Speed": 65535,
     "SurfaceSlap": 0,
     "OceanFish": false,
-    "SpotIds": [],
+    "SpotIds": [
+      321
+    ],
     "Weathers": [],
     "WeathersFrom": [],
     "Spawn": null,
