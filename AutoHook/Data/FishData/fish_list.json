@@ -38319,7 +38319,7 @@
     "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 6.0,
-    "BiteTimeMax": 22.0
+    "BiteTimeMax": 25.0
   },
   {
     "ItemId": 32084,
@@ -50071,7 +50071,7 @@
     "OceanFishingTime": null,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
-    "BiteTimeMax": 19.0
+    "BiteTimeMax": 20.0
   },
   {
     "ItemId": 40562,
@@ -59040,7 +59040,7 @@
     "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
-    "BiteTimeMax": 18.0
+    "BiteTimeMax": 23.0
   },
   {
     "ItemId": 51210,
@@ -59236,7 +59236,7 @@
     "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 18.0,
-    "BiteTimeMax": 25.0
+    "BiteTimeMax": 26.0
   },
   {
     "ItemId": 51216,
@@ -59996,7 +59996,7 @@
     "OceanFishingTime": 0,
     "FruityVideo": null,
     "BiteTimeMin": 2.0,
-    "BiteTimeMax": 13.0
+    "BiteTimeMax": 14.0
   },
   {
     "ItemId": 51240,
@@ -60261,7 +60261,7 @@
     "ItemId": 51687,
     "HookType": 4179,
     "BiteType": 36,
-    "InitialBait": 29715,
+    "InitialBait": 29716,
     "Mooches": [],
     "Predators": [],
     "Nodes": [],
@@ -60392,7 +60392,7 @@
     "OceanFishingTime": null,
     "FruityVideo": "https://youtu.be/mYNzawI28Rw",
     "BiteTimeMin": 19.0,
-    "BiteTimeMax": 25.0
+    "BiteTimeMax": 26.0
   },
   {
     "ItemId": 52002,
@@ -60644,7 +60644,7 @@
     "MLure": 0,
     "ALure": 0,
     "OceanFishingTime": null,
-    "FruityVideo": null,
+    "FruityVideo": "https://youtu.be/4kyFGQfn9R0",
     "BiteTimeMin": 17.0,
     "BiteTimeMax": 23.0
   },
@@ -60770,7 +60770,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": "https://youtu.be/aB9r8BGOn7s",
-    "BiteTimeMin": 21.0,
+    "BiteTimeMin": 20.0,
     "BiteTimeMax": 28.0
   },
   {
@@ -60959,7 +60959,7 @@
     "ALure": 0,
     "OceanFishingTime": null,
     "FruityVideo": null,
-    "BiteTimeMin": 18.0,
+    "BiteTimeMin": 17.0,
     "BiteTimeMax": 19.0
   }
 ]
